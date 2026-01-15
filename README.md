@@ -39,4 +39,4 @@ python3 scripts/run_frontend.py
 See `/docs` folder for detailed documentation.
 
 ## Author
-[Mohd Ibrahim] - Jomhack Python Bootcamp C4 Project January 2026
+Mohd Fairuz Ibrahim - Jomhack Python Bootcamp C4 Project January 2026
