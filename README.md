@@ -1,6 +1,6 @@
-# Restaurant POS System
+# Cafe POS System 🍽️ 🧾 💰 💳 
 
-A modern Point of Sale system for restaurants built with FastAPI, Streamlit, and SQLite.
+A modern Point of Sale system for restaurants built with FastAPI, Streamlit, and SQLite. 🐍
 
 ## Tech Stack
 - **Backend:** FastAPI + SQLAlchemy
@@ -39,4 +39,4 @@ python3 scripts/run_frontend.py
 See `/docs` folder for detailed documentation.
 
 ## Author
-[Your Name] - Python Bootcamp Project 2026
+[Mohd Ibrahim] - Jomhack Python Bootcamp C4 Project January 2026
